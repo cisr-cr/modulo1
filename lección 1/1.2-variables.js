@@ -1,5 +1,5 @@
 // @CISR.
-//Repaso de variables en JS.
+// Repaso de variables en JS.
 
 //declarar una variable
 var miNombre;
