@@ -1,5 +1,5 @@
 
-## ¿Qué es una aplicación web?
+## ¿Qué es una Aplicación Web?
 
 ![image](https://user-images.githubusercontent.com/51721338/210032572-6d8d7487-ca0a-4180-83e0-7de70648e389.png) 
 
