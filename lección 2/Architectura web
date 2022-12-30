@@ -1,0 +1,18 @@
+
+¿Qué es una aplicación web?
+
+Una aplicación web es un programa de software que se ejecuta en un servidor web y se accede a través de un navegador web a Internet. Las aplicaciones web están diseñadas para realizar una función específica o proporcionar un servicio y, a menudo, se utilizan para interactuar con los usuarios y otros sistemas a través de una interfaz gráfica de usuario (GUI).
+
+Algunos ejemplos de aplicaciones web incluyen plataformas de compras en línea como amazon.com, sitios de redes sociales como Instagram, clientes de correo electrónico como outlook y herramientas de productividad como Google Docs. Las aplicaciones web generalmente se desarrollan utilizando lenguajes de programación como HTML, CSS y JavaScript, y también pueden usar bases de datos y otras tecnologías para almacenar y administrar datos.
+
+Las aplicaciones web se diferencian de las aplicaciones de escritorio tradicionales en que no es necesario instalarlas en la computadora de un usuario y se puede acceder a ellas desde cualquier dispositivo con un navegador web y una conexión a Internet. Esto los hace convenientes y accesibles, pero también significa que pueden estar sujetos a vulnerabilidades de seguridad que se ejecutan remotamente y pueden requerir actualizaciones y mantenimiento regulares.
+
+¿Backend vs. Frontend?
+
+En el contexto del desarrollo web, los términos "frontend" y "backend" se refieren a las dos partes principales de una aplicación web.
+
+El frontend es la parte de la aplicación con la que interactúa el usuario. Es la interfaz gráfica de usuario (GUI) que presenta los datos al usuario y le permite realizar acciones como hacer clic en botones, completar formularios y ver contenido. El frontend generalmente se implementa usando HTML, CSS y JavaScript y se representa en el navegador web del usuario.
+
+El backend, por otro lado, es la parte de la aplicación que se ejecuta en un servidor y no es directamente visible para el usuario. Es responsable de almacenar y administrar datos, realizar cálculos y procesar solicitudes desde la interfaz, e interactuar con otros sistemas y servidores. El backend generalmente se implementa utilizando lenguajes como Javascript (Node.js) Python, Java o PHP y se accede a través de una interfaz de programación de aplicaciones (API) o un lenguaje de consulta como GraphQL.
+
+Juntos, el frontend y el backend funcionan para proporcionar una aplicación web completa que permite a los usuarios interactuar y recuperar datos de un servidor.
