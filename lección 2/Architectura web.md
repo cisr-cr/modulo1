@@ -1,5 +1,7 @@
 
-¿Qué es una aplicación web?
+## ¿Qué es una aplicación web?
+
+![image](https://user-images.githubusercontent.com/51721338/210032572-6d8d7487-ca0a-4180-83e0-7de70648e389.png) 
 
 Una aplicación web es un programa de software que se ejecuta en un servidor web y se accede a través de un navegador web a Internet. Las aplicaciones web están diseñadas para realizar una función específica o proporcionar un servicio y, a menudo, se utilizan para interactuar con los usuarios y otros sistemas a través de una interfaz gráfica de usuario (GUI).
 
@@ -7,7 +9,9 @@ Algunos ejemplos de aplicaciones web incluyen plataformas de compras en línea c
 
 Las aplicaciones web se diferencian de las aplicaciones de escritorio tradicionales en que no es necesario instalarlas en la computadora de un usuario y se puede acceder a ellas desde cualquier dispositivo con un navegador web y una conexión a Internet. Esto los hace convenientes y accesibles, pero también significa que pueden estar sujetos a vulnerabilidades de seguridad que se ejecutan remotamente y pueden requerir actualizaciones y mantenimiento regulares.
 
-¿Backend vs. Frontend?
+## ¿Backend vs. Frontend?
+
+![image](https://user-images.githubusercontent.com/51721338/210032705-dda10a5d-476c-4baf-89f0-c7494e5dd18a.png)
 
 En el contexto del desarrollo web, los términos "frontend" y "backend" se refieren a las dos partes principales de una aplicación web.
 
@@ -19,7 +23,7 @@ Juntos, el frontend y el backend funcionan para proporcionar una aplicación web
 
 El desarrollo front-end se centra en los aspectos visuales de un sitio web, la parte que los usuarios ven y con la que interactúan. El desarrollo de back-end comprende la estructura, el sistema, los datos y la lógica de un sitio.
 
-HTTP (Hypertext Transfer Protocol):
+## HTTP (Hypertext Transfer Protocol):
 
 HTTP (Protocolo de transferencia de hipertexto) es un protocolo de comunicación que se utiliza para transmitir datos a través de Internet. Es un conjunto de reglas que dictan cómo dos dispositivos (como una computadora y un servidor) pueden comunicarse entre sí a través de Internet.
 
@@ -34,3 +38,5 @@ Aquí hay una descripción general simplificada de cómo funciona la comunicaci�
 4) El cliente recibe la respuesta y procesa los datos. Si el código de estado indica que la solicitud fue exitosa, el cliente mostrará los datos al usuario.
 
 La comunicación HTTP es una parte esencial del funcionamiento de Internet, ya que permite que los dispositivos intercambien información e interactúen entre sí.
+
+![image](https://user-images.githubusercontent.com/51721338/210033091-d6fb3263-17d8-40cb-83c1-e428f82dc818.png)
