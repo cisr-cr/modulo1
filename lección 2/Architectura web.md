@@ -40,3 +40,36 @@ Aquí hay una descripción general simplificada de cómo funciona la comunicaci�
 La comunicación HTTP es una parte esencial del funcionamiento de Internet, ya que permite que los dispositivos intercambien información e interactúen entre sí.
 
 ![image](https://user-images.githubusercontent.com/51721338/210033091-d6fb3263-17d8-40cb-83c1-e428f82dc818.png)
+
+## Seguridad Web:
+
+La seguridad web se refiere a las medidas tomadas para proteger un sitio web y sus usuarios de diversas amenazas cibernéticas, como malware, ataques de phishing y piratería. Estas amenazas pueden dañar el sitio web, robar información confidencial de los usuarios o interrumpir el funcionamiento normal del sitio web.
+
+Hay varias medidas que se pueden tomar para asegurar un sitio web, tales como:
+
+Uso de conexiones seguras: los sitios web deben usar Secure Sockets Layer (SSL) o Transport Layer Security (TLS) para cifrar la comunicación entre el sitio web y el navegador web del usuario. Esto ayuda a evitar las escuchas y la manipulación de los datos que se transmiten.
+
+Implementar contraseñas seguras: es importante usar contraseñas seguras y únicas para cada sitio web y actualizarlas periódicamente para evitar el acceso no autorizado a las cuentas.
+
+Protección contra malware: los sitios web pueden usar herramientas para buscar y eliminar malware que pueda estar presente en el sitio. También pueden utilizar medidas como cortafuegos y sistemas de prevención de intrusiones para bloquear el acceso de malware al sitio.
+
+Capacitar a los usuarios: es importante educar a los usuarios sobre los riesgos de los ataques de phishing y cómo identificarlos y evitarlos.
+
+Al implementar estas y otras medidas de seguridad, los sitios web pueden ayudar a protegerse a sí mismos y a sus usuarios de las amenazas cibernéticas y garantizar una experiencia en línea segura.
+
+## Certificados Web:
+
+Los certificados web, también conocidos como certificados SSL/TLS, se utilizan para establecer una conexión segura entre un servidor web y un cliente (generalmente un navegador web). Permiten que información confidencial, como contraseñas y números de tarjetas de crédito, se transmita de forma segura a través de Internet.
+
+Para establecer una conexión segura, el servidor web y el cliente intercambian claves para cifrar y descifrar los datos que se transmiten. Un certificado web contiene información sobre la identidad del sitio web y la clave utilizada para establecer la conexión segura.
+
+Un ejemplo de un certificado web es un icono de "candado" que aparece en la barra de direcciones de un navegador web cuando un usuario visita un sitio web seguro. Este icono indica que el sitio web utiliza un certificado web y que la conexión es segura.
+
+Los certificados web son emitidos por organizaciones denominadas autoridades de certificación (CA). Las CA verifican la identidad del propietario del sitio web y emiten un certificado para el sitio web si cumple con los requisitos necesarios. Esto ayuda a garantizar que los usuarios puedan confiar en el sitio web y en la información transmitida a través de él.
+
+### Aquí hay un diagrama simple de un intercambio de certificados web:
+
+![image](https://user-images.githubusercontent.com/51721338/210110120-9ed4bc00-3966-418c-a1d4-8241936d5f2e.png)
+
+Este proceso ayuda a garantizar que la conexión entre el cliente y el servidor sea segura y que cualquier información que se transmita entre ellos se cifre y proteja contra manipulaciones o intercepciones.
+
