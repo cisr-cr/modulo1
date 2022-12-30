@@ -16,3 +16,21 @@ El frontend es la parte de la aplicación con la que interactúa el usuario. Es 
 El backend, por otro lado, es la parte de la aplicación que se ejecuta en un servidor y no es directamente visible para el usuario. Es responsable de almacenar y administrar datos, realizar cálculos y procesar solicitudes desde la interfaz, e interactuar con otros sistemas y servidores. El backend generalmente se implementa utilizando lenguajes como Javascript (Node.js) Python, Java o PHP y se accede a través de una interfaz de programación de aplicaciones (API) o un lenguaje de consulta como GraphQL.
 
 Juntos, el frontend y el backend funcionan para proporcionar una aplicación web completa que permite a los usuarios interactuar y recuperar datos de un servidor.
+
+El desarrollo front-end se centra en los aspectos visuales de un sitio web, la parte que los usuarios ven y con la que interactúan. El desarrollo de back-end comprende la estructura, el sistema, los datos y la lógica de un sitio.
+
+HTTP (Hypertext Transfer Protocol):
+
+HTTP (Protocolo de transferencia de hipertexto) es un protocolo de comunicación que se utiliza para transmitir datos a través de Internet. Es un conjunto de reglas que dictan cómo dos dispositivos (como una computadora y un servidor) pueden comunicarse entre sí a través de Internet.
+
+Aquí hay una descripción general simplificada de cómo funciona la comunicación HTTP:
+
+1) Un cliente (como un navegador web) envía una solicitud HTTP a un servidor. La solicitud especifica el tipo de acción que el cliente desea que realice el servidor (como recuperar una página web o cargar un archivo).
+
+2) El servidor recibe la solicitud y la procesa. Si la solicitud es válida, el servidor realizará la acción especificada y enviará una respuesta HTTP al cliente.
+
+3) La respuesta incluye un código de estado (como 200 para éxito o 404 para no encontrado) y cualquier dato solicitado por el cliente (como una página web o un archivo).
+
+4) El cliente recibe la respuesta y procesa los datos. Si el código de estado indica que la solicitud fue exitosa, el cliente mostrará los datos al usuario.
+
+La comunicación HTTP es una parte esencial del funcionamiento de Internet, ya que permite que los dispositivos intercambien información e interactúen entre sí.
