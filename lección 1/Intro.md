@@ -1,0 +1,71 @@
+## ¿Deberíamos de Estudiar Informática y Programación? Estadisticas del 2022
+
+Hay varias razones por las que los estudiantes deberían considerar estudiar informática y programación:
+
+La demanda de habilidades informáticas y de programación es alta: las habilidades informáticas y de programación tienen una gran demanda en una variedad de industrias, desde el desarrollo de software y el análisis de datos hasta la ciberseguridad y la inteligencia artificial. Esto significa que los estudiantes que estudian informática y programación tienen una amplia gama de opciones de carrera disponibles para ellos.
+
+La informática y la programación son claves para resolver problemas: La informática y la programación son habilidades esenciales para resolver problemas y encontrar soluciones en una variedad de campos. Desde el diseño de nuevo software hasta el análisis de datos y la automatización de procesos, estas habilidades se pueden aplicar a una amplia gama de desafíos.
+
+La informática y la programación están en constante evolución: el campo de la informática y la programación está en constante evolución, con nuevas tecnologías y enfoques que se desarrollan todo el tiempo. Esto significa que los estudiantes que estudian informática y programación estarán bien preparados para adaptarse y aprovechar los nuevos desarrollos en el campo.
+
+La informática y la programación pueden ser gratificantes y gratificantes: muchas personas encuentran que estudiar informática y programación es intelectualmente desafiante y gratificante. Puede ser una elección de carrera satisfactoria para aquellos que disfrutan de resolver problemas y tener un impacto positivo en el mundo.
+
+En general, estudiar informática y programación puede brindarles a los estudiantes una amplia gama de oportunidades profesionales, la capacidad de resolver problemas complejos y la oportunidad de estar a la vanguardia del avance tecnológico.
+
+## Aprendiendo a Programar
+
+La cantidad de personas aprendiendo a programar en línea aumentó del 60 % al 70 % año tras año. Es más probable que las personas mayores de 45 años hayan aprendido de los libros, mientras que los más jóvenes están aprendiendo en línea. Las personas más jóvenes (menores de 18 años) confían más en los recursos en línea.
+
+![image](https://user-images.githubusercontent.com/51721338/210111315-cedf230f-2b63-4e3d-93de-f1bb2b57eca0.png)
+
+## Recursos en línea para aprender a programar
+
+También es interesante que veamos tanta variedad en la forma en que las personas aprenden a programar por sí mismas. Material escrito, una variedad de formatos de video, libros, cursos: no existe un enfoque único para aprender a programar. Todos pueden juntar los recursos y formatos que mejor se adapten a su estilo de aprendizaje.
+
+![image](https://user-images.githubusercontent.com/51721338/210111466-4b976cd5-5854-4552-939b-2b896751573a.png)
+
+## Las Mejores plataformas para aprender
+
+Udemy lidera como la plataforma en línea más popular para aprender sobre la informatica. 
+
+![image](https://user-images.githubusercontent.com/51721338/210111745-8c494d41-2c5a-4d3c-8c88-32a011d532c5.png)
+
+http://www.udemy.com/
+
+http://platzi.com/ (Cursos en Español)
+
+http://youtube.com/
+
+https://www.edx.org/
+
+## Años de Experiencia Programando
+
+Al igual que el año pasado, el 50% de las personas en estas encuestas han estado programando durante diez años o menos. 
+
+Los programadores de los Estados Unidos y el Reino Unido son los más experimentados, con un promedio de 15 años y medio de experiencia en programación.
+
+![image](https://user-images.githubusercontent.com/51721338/210112282-c461358c-48ed-44ba-a82c-36bc7df03435.png)
+
+![image](https://user-images.githubusercontent.com/51721338/210112295-4f0bd392-d594-41c5-a26e-30cf1d9e53cf.png)
+
+## Tipos de Programadores
+
+![image](https://user-images.githubusercontent.com/51721338/210112382-dbf7dde7-de40-4acc-bc04-16652ed8d9db.png)
+
+## Edad
+
+El 46 % de los desarrolladores profesionales tienen entre 25 y 34 años. Pero vemos que más de la mitad de las personas que aprenden a programar tienen entre 18 y 24 años.
+
+![image](https://user-images.githubusercontent.com/51721338/210112441-13e0fbdc-8bbc-44b2-99f9-d5a577bee377.png)
+
+## Popularidad
+
+2022 marca el décimo año consecutivo de JavaScript como el lenguaje de programación más utilizado. 
+
+HTML/CSS, Javascript y Python están casi empatados como los lenguajes más populares para las personas que aprenden a programar.
+
+![image](https://user-images.githubusercontent.com/51721338/210112551-c8c7804d-f8c6-442f-b016-fa61492de476.png)
+
+**Toda la información de este documento se puede encontrar aquí: https://survey.stackoverflow.co/2022 ** 
+
+
