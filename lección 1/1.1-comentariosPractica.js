@@ -9,9 +9,9 @@ Comente las líneas correctas para que el código se ejecute como se esperaba
 Puntos extra:
 2) Cambie el nombre de la variable para que este archivo le diga hola a usted.
 
-Hola, Luis José!
+Por ejemplo: 
 
-@CISR.
+Hola, Luis José!
 
 */
 
