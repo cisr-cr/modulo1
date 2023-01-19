@@ -95,9 +95,38 @@ En este ejemplo, x > 10 && y < 20 son dos expresiones booleanas y el operador co
 
 ## Operador Or (||)
 
+El operador "o" ```||``` es un operador lógico que devuelve el primer valor verdadero que encuentra.
 
+Por ejemplo:
+```
+const a = 0;
+const b = 55;
+const c = false;
 
+console.log(a || b || c);  // resultado: 55
+```
+## Valores Truthy
 
+Los valores ```truthy``` (valores veraces) son valores que se evalúan como verdaderos cuando se usan en un contexto booleano. 
+
+Los ejemplos de valores veraces en JavaScript incluyen:
+
+- Strings no vacías (por ejemplo, ```"hola"```)
+- Números distintos de cero (por ejemplo, ```42```)
+- Objetos (por ejemplo, ```{}``` o ```[]```)
+- Funciones
+
+## Valores Falsy
+
+Por otro lado, los valores ```falsy``` (valores falsos) son valores que se evalúan como falsos cuando se usan en un contexto booleano. 
+
+Ejemplos de valores falsos incluyen:
+
+- el numero ```0```
+- un string vacía ```""```
+- el valor especial ```null```
+- el valor especial ```undefined```
+- el valor booleano ```false```
 
 
 
