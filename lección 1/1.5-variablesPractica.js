@@ -1,42 +1,54 @@
 // @CISR.
 // preguntas de practica variables
 
-// ¿De qué tipo es el siguiente valor?
+// 1) ¿De qué tipo es el siguiente valor?
 
 "hello";
 
-// ¿De qué tipo es el siguiente valor?
+// 2) ¿De qué tipo es el siguiente valor?
 
 true;
 
-// ¿De qué tipo es el siguiente valor?
+// 3) ¿De qué tipo es el siguiente valor?
 
 [1, 2, 3];
 
-// ¿De qué tipo es el siguiente valor?
+// 4) ¿De qué tipo es el siguiente valor?
 
 {
   name: "John";
 }
 
-// ¿De qué tipo es el siguiente valor?
+// 5) ¿De qué tipo es el siguiente valor?
 
 function myFunction(p1, p2) {
   return p1 * p2;
 }
 
-// ¿De qué tipo es el siguiente valor?
+// 6) ¿De qué tipo es el siguiente valor?
 
 null;
 
-// ¿De qué tipo es el siguiente valor?
+// 7) ¿De qué tipo es el siguiente valor?
 
 undefined;
 
-// ¿De qué tipo es el siguiente valor?
+// 8) ¿De qué tipo es el siguiente valor?
 
 1;
 
-// ¿De qué tipo es el siguiente valor?
+// 9) ¿De qué tipo es el siguiente valor?
 
 NaN;
+
+// 10) ¿Cuál es la diferencia entre usar "var" y "let" para declarar una variable en JavaScript?
+
+// 11) ¿Cuál es la diferencia entre usar "let" y "const" para declarar una variable en JavaScript?
+
+// 12) ¿Cómo declaras una variable en JavaScript sin asignarle un valor?
+
+// 13) ¿Cómo asignas un valor a una variable en JavaScript?
+
+// 14) ¿Cómo se reasigna un valor a una variable en JavaScript?
+
+// 15) ¿Cómo se declara una variable con un valor en JavaScript?
